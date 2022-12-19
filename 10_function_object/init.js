@@ -1,5 +1,5 @@
 document.getElementById("btnRetry").addEventListener("click",(event)=>{
-    location.reload()
+    window.onload();
 })
 
 window.onload = function()
